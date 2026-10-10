@@ -21,4 +21,17 @@ A simple Python calculator project for learning Git and GitHub.
 \- Add two numbers
 
 \- Subtract two numbers
+## Git Practice
+
+
+
+\- Git initialization
+
+\- Multiple commits
+
+\- Branch creation
+
+\- Branch merging
+
+\- GitHub push
 
