@@ -4,15 +4,21 @@
 
 \## Author
 
-Shifa
+Sadia Akter Shifa
 
 
 
 \## About
 
-This project is created to practice Git and GitHub.
+A simple Python calculator project for learning Git and GitHub.
 
 
 
-It contains a simple Python program and calculator functions.
+\## Features
+
+\- Display name and current date
+
+\- Add two numbers
+
+\- Subtract two numbers
 
