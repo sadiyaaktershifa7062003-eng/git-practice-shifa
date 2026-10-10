@@ -2,9 +2,21 @@
 
 
 
-This project is a simple Python calculator.
+This is a simple Python calculator project.
 
 
 
-It is created to practice Git, GitHub, commits, branches, and merging.
+\## Features
+
+\- Addition
+
+\- Subtraction
+
+\- Multiplication
+
+\- Display current date
+
+
+
+This project demonstrates Git commits, branches, merging, and GitHub.
 
